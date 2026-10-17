@@ -5,7 +5,7 @@ University. For a detailed breakdown
 of what each test is and what the results meant, see
 `Engineering Notebook/06 Prototyping 4 LAB.pdf`.
 
-## Each test folder
+## Each folder
 
 Every folder above, except `analysis`, has two things in it:
 
@@ -15,11 +15,9 @@ one file.
 **A folder of the lab's data** — three `.forces` files, one per trial,
 straight off the force plate.
 
-
-## The analysis folder
-
 `analysis/` holds the three outputs from my MATLAB analysis, including the standing
 trials, the individual sensor calibration, and the moving trials.
+
 
 
 Also, there is **My original data from google docs.pdf**. This is the file I
