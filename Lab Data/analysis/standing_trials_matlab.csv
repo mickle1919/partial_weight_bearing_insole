@@ -1,0 +1,22 @@
+condition,trial,true_pct_BW,device_pct,ratio,true_band,device_band,band_match
+featherweight,1,8.91,16.40,1.84,<10%,10-30%,NO
+featherweight,2,10.87,20.20,1.86,10-30%,10-30%,YES
+featherweight,3,14.90,26.40,1.77,10-30%,10-30%,YES
+flat foot press,1,22.68,32.80,1.45,10-30%,30-50%,NO
+flat foot press,2,23.18,30.50,1.32,10-30%,30-50%,NO
+flat foot press,3,22.29,28.50,1.28,10-30%,10-30%,YES
+30 percent,1,29.82,48.00,1.61,10-30%,30-50%,NO
+30 percent,2,27.64,37.35,1.35,10-30%,30-50%,NO
+30 percent,3,27.79,38.10,1.37,10-30%,30-50%,NO
+50 percent,1,50.22,73.40,1.46,50-85%,50-85%,YES
+50 percent,2,49.49,69.00,1.39,30-50%,50-85%,NO
+50 percent,3,49.60,71.10,1.43,30-50%,50-85%,NO
+stand on both feet,1,49.53,56.85,1.15,30-50%,50-85%,NO
+stand on both feet,2,49.55,61.20,1.24,30-50%,50-85%,NO
+stand on both feet,3,49.57,63.45,1.28,30-50%,50-85%,NO
+85 percent,1,76.58,108.50,1.42,50-85%,>85%,NO
+85 percent,2,79.11,112.10,1.42,50-85%,>85%,NO
+85 percent,3,77.88,112.80,1.45,50-85%,>85%,NO
+stand on test foot only,1,98.33,125.00,1.27,>85%,>85%,YES
+stand on test foot only,2,97.29,138.80,1.43,>85%,>85%,YES
+stand on test foot only,3,97.64,139.30,1.43,>85%,>85%,YES
