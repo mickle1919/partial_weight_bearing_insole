@@ -1,9 +1,6 @@
 // Prototyping 1, second device - Wheatstone bridge with the FSR as the
 // fourth arm. Three 10 ohm resistors make the fixed arms. A0 is the fixed
 // reference midpoint (~512), A1 is the FSR side.
-//
-// NOTE: the original file was overwritten during development. This is
-// transcribed from the screenshot on page 10 of the Prototyping 1 notebook.
 
 void setup() {
   Serial.begin(9600);
