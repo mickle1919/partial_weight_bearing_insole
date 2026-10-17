@@ -14,7 +14,7 @@ However, this project is still ongoing, and I have lots of things I want to add 
 
 In this repo:
 
-full_engineering_notebook: My entire engineering notebook. Throughout this project, I have documented everything: prototypes, failures, successes, etc.
+Engineering Notebook: My entire engineering notebook. Throughout this project, I have documented everything: prototypes, failures, successes, etc.
 
 summary: My engineering notebook is pretty long, so I have summarized it here
 
