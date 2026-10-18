@@ -3,8 +3,6 @@
 % For each trial: read the force plate .forces file, average the steady
 % hold, convert to % body weight, and compare with the median of my
 % device's Percent column over the same window.
-%
-% Michael Phelan, 2026
 
 root = '/Users/michaelphelan/Desktop/LAB_DATA';
 BW   = 787.3;              % my body weight, 177 lb in newtons
