@@ -5,8 +5,6 @@
 % strides, and we started recording by voice so the two are not synced.
 % This searches for the time shift that best lines the two signals up,
 % then compares peaks and splits the stance phase into thirds.
-%
-% Michael Phelan, 2026
 
 root = '/Users/michaelphelan/Desktop/LAB_DATA';
 BW   = 787.3;
