@@ -7,8 +7,6 @@
 % conditions whose true answers are known independently (featherweight and
 % standing on the test foot only), then scores the other 15 trials under
 % each curve set. Those 15 were not used in the solve.
-%
-% Michael Phelan, 2026
 
 root = '/Users/michaelphelan/Desktop/LAB_DATA';
 
