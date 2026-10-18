@@ -25,6 +25,7 @@ Prototype Data: experimental data from earlier phases, recorded at home.
 
 
 **Contributions**
+
 Myself: identified the problem, researched existing devices and sensing methods, and chose the design. Designed, built, and tested every prototype: the conductive foam, the resistor testing, the drift and foam-sandwich experiments, and the two-sensor insole. Calibrated the sensors, soldered the perfboard, and assembled the final device. I designed the experimental procedure for the 19 tests and 57 trials at the lab. I also did the analysis in MATLAB to check. I found the calibration bug that was making every reading high, and fixed it. Finally, I documented everything in my engineering notebook
 
 Dr. Thomas Jenkyn: Met with me throughout and gave guidance whenever I was stuck, and hosted the force plate testing in his lab at Western University.
