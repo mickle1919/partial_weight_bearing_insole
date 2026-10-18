@@ -5,8 +5,6 @@
 % Model: force_lb = a * raw^b, which is a straight line in log-log space.
 % R^2 is reported on the pound values, not in log space, because log-space
 % R^2 flatters the fit.
-%
-% Michael Phelan, 2026
 
 heel_raw = [421 412 444 328 318 321 283 285 300 244 229 228]';
 heel_lb  = [45.0 48.2 42.1 78.9 89.2 78.8 112.3 109.3 111.9 164.0 162.4 162.9]';
