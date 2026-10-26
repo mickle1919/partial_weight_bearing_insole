@@ -11,8 +11,6 @@ This is the code I used to analyze my lab data. All data is pulled from the `Lab
 
 ## Finding and fixing the anchor error
 
-These came after the lab notebook was written, so their results are not in `06 Prototyping 4 LAB.pdf`.
-
 * `apply_correction.m` - applies the correction factor I back-solved by hand to all 21 standing trials and re-bands them.
 * `validate_median_fix.m` - rebuilds the anchor from the device's own logged forces, using no force-plate data, then scores the 18 trials that did not produce it.
 * `test_limit_anchor.m` - asks whether the upper anchor has to sit at full body weight, by comparing it against a 30% and a 50% anchor on the same 12 trials.
