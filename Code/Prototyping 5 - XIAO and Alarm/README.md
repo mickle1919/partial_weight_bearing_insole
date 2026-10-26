@@ -25,3 +25,8 @@ These were just small programs written to test one question at a time
 - `08_test_buzzer.ino` - is an active buzzer loud enough driven straight off a pin, or does it need the transistor?
 - `09_test_buzzer_interactive.ino` - testing the buzzer. For the direct-drive wiring (buzzer sits between 3V3 and the pin), where LOW makes sound
 - `10_test_buzzer_interactive_transistor.ino` - testing the buzzer. HIGH makes sound.
+
+## Used Now
+
+- '11_xiao_ble_limit_anchor.ino' - what runs on the device now. The upper anchor is taken at the prescribed limit instead of at 100% body weight, because a partial weight-bearing patient cannot stand at full weight on the injured foot. Readings interpolate between zero and the limit and extrapolate above it.
+
