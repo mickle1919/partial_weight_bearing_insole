@@ -1,4 +1,4 @@
-# Results
+# Analysis
 
 Outputs from the scripts in `code/analysis_matlab`, all from the session at Dr. Jenkyn's lab. What I concluded from them is in `Engineering Notebook/06 Prototyping 4 LAB.pdf` and `08 Lessons Learned.pdf`.
 
