@@ -32,7 +32,7 @@ Dr. Thomas Jenkyn: Met with me throughout and gave guidance whenever I was stuck
 
 Ms. Costello: Dr. Jenkyn’s graduate student, who ran the force plate and recorded the lab’s data during the testing session.
 
-Claude: wrote the code from my descriptions of what each needed to do. Claude also helped generate some of the graphs in my Engineering Notebook
+Claude: wrote the code from my descriptions of what each needed to do. Claude also helped generate some of the graphs in my Engineering Notebook and checked my math
 
 
 
