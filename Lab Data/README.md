@@ -15,9 +15,7 @@ one file.
 **A folder of the lab's data** — three `.forces` files, one per trial,
 straight off the force plate.
 
-`analysis/` holds the three outputs from my MATLAB analysis, including the standing
-trials, the individual sensor calibration, and the moving trials.
-
+`analysis/` holds the five outputs from my MATLAB analysis
 
 
 Also, there is **My original data from google docs.pdf**. This is the file I
