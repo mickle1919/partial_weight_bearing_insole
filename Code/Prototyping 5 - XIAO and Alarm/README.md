@@ -28,5 +28,5 @@ These were just small programs written to test one question at a time
 
 ## Used Now
 
-- '11_xiao_ble_limit_anchor.ino' - what runs on the device now. The upper anchor is taken at the prescribed limit instead of at 100% body weight, because a partial weight-bearing patient cannot stand at full weight on the injured foot. Readings interpolate between zero and the limit and extrapolate above it.
+- `11_xiao_ble_limit_anchor.ino` - what runs on the device now. The upper anchor is taken at the prescribed limit instead of at 100% body weight, because a partial weight-bearing patient cannot stand at full weight on the injured foot. Readings interpolate between zero and the limit and extrapolate above it.
 
