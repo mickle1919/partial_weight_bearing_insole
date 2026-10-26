@@ -9,5 +9,6 @@ Documents in order:
 5. **Prototyping 3** - two 150 kg FSRs on a 3D-printed insole, home calibration, first walking test
 6. **Prototyping 4 (LAB)** - force plate validation at the Wolf Orthopaedic Biomechanics Laboratory
 7. **Prototyping 5** - compacting the device: perfboard, battery, Bluetooth, alarm
+8. **Lessons Learned** - summarizes the project so far, and what I have learned
 
 NOTE: GitHub’s preview only loads the first few pages at a time. On the longer documents you’ll need to click the “More pages” button at the bottom of the preview to keep reading, or download the file to see the whole thing at once.
