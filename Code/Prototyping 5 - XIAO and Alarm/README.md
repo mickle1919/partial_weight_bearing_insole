@@ -15,7 +15,7 @@ These are just different versions of one program. Most differ from the one befor
 - `03_xiao_ble_alarm.ino` - adds a buzzer
 - `04_xiao_ble_alarm_direct_drive.ino` - same program, buzzer wired straight to the pin instead of through the transistor. This was part of chasing the alarm problem.
 - `05_xiao_ble_alarm_limit_first.ino` - you type your prescribed limit before calibrating
-- `06_xiao_ble_simple.ino` - what runs on the device now. It has a continuous buzz above the limit
+- `06_xiao_ble_simple.ino` - Has a continuous buzz above the limit
 
 ## Various tests
 
