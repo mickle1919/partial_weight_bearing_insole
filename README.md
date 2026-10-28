@@ -1,9 +1,9 @@
 # partial_weight_bearing_insole
-An affordable wearable insole that measures partial weight bearing for rehab
+An affordable wearable insole that measures partial weight bearing for rehab.
 
-After my mom broke her legs, during her recovery, her doctor prescribed her certain partial weight bearing (ex: "Only put 15% of your bodyweight on your right leg"). The Doctor told her to use the standard "bathroom scale method," where one has to put their legs on a scale to "feel" what certain weights mean. While it is widely recommended as a basic training tool, multiple orthopedic studies show that many patients significantly exceed their weight-bearing limits when actually moving, which can lead to improper healing
+After my mom broke her legs, during her recovery, her doctor prescribed her certain partial weight bearing (ex: "Only put 15% of your bodyweight on your right leg"). The Doctor told her to use the standard "bathroom scale method," where one has to put their legs on a scale to "feel" what certain weights mean. While it is widely recommended as a basic training tool, multiple orthopedic studies show that many patients significantly exceed their weight-bearing limits when actually moving, which can lead to improper healing.
 
-My mother started to become very anxious about this method. She tried looking everywhere online for something more accurate that could help with her partial weight bearing, but there was nothing easily accessible to buy or inexpensive. So I set out to make one. I've come a long way with this project, and this is how it works:
+My mother started to become very anxious about this method. She looked everywhere online for something more accurate that could help with her partial weight bearing, but there was nothing easily accessible to buy or inexpensive. So I set out to make one. I've come a long way with this project, and this is how it works:
 
 Two 150kg force-sensitive resistors sit under the heel and the ball of the foot. A microcontroller (XIAO nRF52840) at the ankle reads them, calibrates to the wearer each time the shoe goes on, and streams the percentage to a phone over Bluetooth. If you cross your limit, a built in alarm sounds.
 
