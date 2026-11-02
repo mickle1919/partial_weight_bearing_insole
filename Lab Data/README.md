@@ -23,4 +23,4 @@ actually used at the lab, where I dumped every reading as it came in. I
 cleaned it up into the separate CSVs once I got home, so this is the raw
 version before any of that
 
-The code that produced the analysis is in `code/analysis_matlab/`.
+The code that produced the analysis is in `Code/MATLAB/`.
