@@ -1,6 +1,6 @@
 # Analysis
 
-Outputs from the scripts in `code/analysis_matlab`, all from the session at Dr. Jenkyn's lab. What I concluded from them is in `Engineering Notebook/06 Prototyping 4 LAB.pdf` and `08 Lessons Learned.pdf`.
+Outputs from the scripts in `Code/MATLAB/`, all from the session at Dr. Jenkyn's lab. What I concluded from them is in `Engineering Notebook/06 Prototyping 4 LAB.pdf` and `08 Lessons Learned.pdf`.
 
 `sensor_calibration_trials.csv` - The 24 bare-sensor presses, three trials at each of four load levels for both sensors, with the raw reading and the true load from the plate. This is what `fit_calibration_curves.m` fits
 
